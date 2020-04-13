@@ -22,6 +22,7 @@ plusminus jdownloader2 headless
 prom prometheus
 influxdb
 nodered node red docker
+https://github.com/kumina/unbound_exporter
 
 ##Software
 -mqtt.fx
